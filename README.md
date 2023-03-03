@@ -1,3 +1,3 @@
-# Master-Detail Interface in Angular 1
+# Master-Detail Interface Ronald Vargas
 
 Master Detail For Week 5 Portfolio
